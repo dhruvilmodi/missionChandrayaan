@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 368.87 368.87">
+  <defs>
+    <style>
+      .cls-11 {
+        fill: #d3dcce;
+      }
+
+      .cls-22 {
+        fill: #c2cbbd;
+      }
+
+      .cls-33, .cls-55 {
+        fill: #a4af99;
+      }
+
+      .cls-44 {
+        fill: #c2cbbc;
+      }
+
+      .cls-55 {
+        stroke: #e4effa;
+        stroke-miterlimit: 10;
+        stroke-width: 0.56px;
+      }
+
+      .cls-66 {
+        fill: #c9d0c4;
+      }
+    </style>
+  </defs>
+  <title>Asset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="moon">
+      <g>
+        <circle class="cls-11" cx="184.43" cy="184.43" r="184.43"/>
+        <ellipse class="cls-22" cx="276.51" cy="122.77" rx="33.11" ry="28.94" transform="translate(-24.61 152.08) rotate(-29.5)"/>
+        <circle class="cls-22" cx="141.85" cy="184.26" r="59.12"/>
+        <ellipse class="cls-22" cx="217.05" cy="259.93" rx="22.7" ry="23.17"/>
+        <ellipse class="cls-22" cx="150.36" cy="323.31" rx="26.01" ry="23.17"/>
+        <ellipse class="cls-22" cx="62.51" cy="304.57" rx="10.61" ry="15.13" transform="translate(-223.18 181.88) rotate(-55.16)"/>
+        <ellipse class="cls-22" cx="59.55" cy="228.71" rx="12.77" ry="13.72"/>
+        <ellipse class="cls-33" cx="102.59" cy="92.5" rx="22.7" ry="26.01"/>
+        <ellipse class="cls-22" cx="142.05" cy="34.22" rx="22.7" ry="8.51" transform="translate(-1.77 60) rotate(-23.71)"/>
+        <ellipse class="cls-22" cx="227.92" cy="57.51" rx="12.77" ry="13.72"/>
+        <ellipse class="cls-44" cx="333.87" cy="170.54" rx="11.82" ry="17.03"/>
+        <ellipse class="cls-22" cx="316.84" cy="250.47" rx="16.55" ry="20.34"/>
+        <ellipse class="cls-22" cx="272.38" cy="319.99" rx="14.66" ry="6.62" transform="translate(-116.99 161.95) rotate(-27.5)"/>
+        <ellipse class="cls-22" cx="204.75" cy="304.39" rx="10.4" ry="10.88"/>
+        <ellipse class="cls-22" cx="182.52" cy="302.02" rx="6.15" ry="7.57"/>
+        <circle class="cls-55" cx="145.16" cy="165.81" r="15.13"/>
+        <ellipse class="cls-22" cx="194.82" cy="207.43" rx="18.45" ry="17.97"/>
+        <ellipse class="cls-66" cx="263.4" cy="122.77" rx="5.68" ry="5.2"/>
+        <ellipse class="cls-22" cx="276.64" cy="108.58" rx="4.73" ry="4.26"/>
+      </g>
+    </g>
+  </g>
+</svg>

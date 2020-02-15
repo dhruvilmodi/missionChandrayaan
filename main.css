@@ -1,0 +1,115 @@
+body{
+    margin: 0%;
+    padding: 0;
+    background: #000;
+    text-align: center;
+    overflow: hidden;
+}
+
+h2{
+    color: azure;
+    text-transform: uppercase;
+    font-family: 'Black Ops One', cursive;
+    letter-spacing: 4pt;
+    font-size: 20pt;
+    position: fixed;
+    top: 1rem;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+/* classes for the earth */
+.cls-1 {
+    fill: #00a89e;
+}
+
+.cls-2 {
+fill: #96c947;
+}
+
+/* classes for the moon */
+.cls-11 {
+    fill: #d3dcce;
+}
+
+.cls-22 {
+    fill: #c2cbbd;
+}
+
+.cls-33, .cls-55 {
+    fill: #a4af99;
+}
+
+.cls-44 {
+    fill: #c2cbbc;
+}
+
+.cls-55 {
+    stroke: #e4effa;
+    stroke-miterlimit: 10;
+    stroke-width: 0.56px;
+}
+
+.cls-66 {
+    fill: #c9d0c4;
+}
+
+
+/* XXXXXXXXXXXXXXXXXXXXXX disabled due to mozilla animation problem XXXXXXXXXXXXXXXXXXXXXX */
+
+/* Blinking stars */
+/* .blink_me {
+    animation: blinker 1s linear infinite;
+}
+@keyframes blinker {
+    50% {
+    opacity: 0;
+    }
+}
+.blink_me2 {
+    animation: blinker2 2s linear infinite;
+}
+@keyframes blinker2 {
+    50% {
+    opacity: 0;
+    }
+} 
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX*/
+
+/* Styling for earth */
+/* color for water */
+.earthWater {
+    fill: #0077be;
+}
+
+#satelliteToMove{
+    opacity: 0;
+}
+
+@media screen and (min-width: 375px) and (max-width: 767px) {
+    h2{
+        color: azure;
+        text-transform: uppercase;
+        font-family: 'Black Ops One', cursive;
+        letter-spacing: 4pt;
+        font-size: 16pt;
+        position: fixed;
+        top: 1rem;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+    
+    html {
+        transform: rotate(-270deg);
+        transform-origin: left top;
+        width: 100vh;
+        height: 100vw;
+        overflow-x: hidden;
+        position: absolute;
+        top: 0;
+        left: 100%;
+    }
+}
