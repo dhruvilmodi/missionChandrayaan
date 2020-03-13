@@ -2,6 +2,6 @@
 A basic concept of inline SVG animation using GSAP library
 
 # Technologies
-- HTML & CSS
+- HTML5 & CSS3
 - ECMAScript 5
-- GSAP
+- GSAP 2.0
